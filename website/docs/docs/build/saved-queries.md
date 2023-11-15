@@ -19,7 +19,7 @@ To define a saved query, refer to the following specification:
 The following is an example of a saved query:
 
 ```yaml
-saved_query:
+saved_queries:
   name: p0_booking
   description: Booking-related metrics that are of the highest priority.
   query_params:
